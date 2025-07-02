@@ -24,7 +24,7 @@ Dev Detective is a simple and responsive GitHub profile search application. It a
 ---
 
 ## 📁 Folder Structure
-
+```bash
 dev-detective/
 │
 ├── index.html
@@ -33,7 +33,7 @@ dev-detective/
 └── assets/
 └── (images/icons used)
 
-
+```
 ---
 
 ## 💡 How to Use
